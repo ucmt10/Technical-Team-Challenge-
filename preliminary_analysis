@@ -1,0 +1,5 @@
+# The aim of this analysis is to test importnace of the indicaors/ independent variables for determining whether someone has diabetes/pre-diabetes/no diabetes
+# We are testing importance with chi squared tests and logistic regressions and compare importance with other variables with multiple logistic regressions
+# We are going to split the predictors amongst ourselves and do the analysis. Fisayo take the first 7 (biological), Ufuoma take the next 7 (biological), and Uzoma take the last 6 (the social factors) 
+
+#PASTE YOUR CODE BELOW 
